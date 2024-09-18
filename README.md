@@ -15,7 +15,7 @@ This project implements an image recognition classification model using TensorFl
 
 ## Introduction
 
-This project demonstrates how to create a convolutional neural network (CNN) using TensorFlow to classify images from the CIFAR-10 dataset. The model is trained to recognize objects in images and can predict labels for unseen images.
+This project demonstrates how to create a convolutional neural network (CNN) using TensorFlow to classify images from the TF_CIFAR2 dataset. The model is trained to recognize objects in images and can predict labels for unseen images.
 
 ## Installation
 
