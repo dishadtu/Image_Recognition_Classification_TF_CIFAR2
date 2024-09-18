@@ -1,7 +1,6 @@
 # Image_Recognition_Classification_TF_CIFAR2
-# Image Recognition Classification with TensorFlow on CIFAR-10
 
-This project implements an image recognition classification model using TensorFlow for the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes. This repository includes code for data preprocessing, model building, training, and evaluation.
+This project implements an image recognition classification model using TensorFlow for the TF_CIFAR2 dataset. The TF_CIFAR2 dataset consists of 60,000 32x32 color images in 10 different classes. This repository includes code for data preprocessing, model building, training, and evaluation.
 
 ## Table of Contents
 
@@ -20,10 +19,8 @@ This project demonstrates how to create a convolutional neural network (CNN) usi
 
 ## Installation
 
-To run this project, you need to have Python and TensorFlow installed. You can install TensorFlow using pip:
+To run this project, you need to have Python and TensorFlow installed. `
 
-```bash
-pip install tensorflow matplotlib
 ## Dataset
 
 The CIFAR-10 dataset is included in TensorFlow and can be easily loaded using the `tf.keras.datasets` module. The dataset consists of 60,000 images divided into 10 classes:
